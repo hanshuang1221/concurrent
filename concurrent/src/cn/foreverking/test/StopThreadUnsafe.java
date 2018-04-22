@@ -2,6 +2,7 @@ package cn.foreverking.test;
 
 import cn.foreverking.model.User;
 
+
 public class StopThreadUnsafe {
 	public static User user = new User();
 
